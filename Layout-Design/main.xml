@@ -1,0 +1,49 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<TextView
+		android:id="@+id/textview1"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:gravity="center_horizontal"
+		android:text="Welcome to FoodCom"
+		android:textSize="60sp"
+		android:textColor="#000000"
+		android:layout_gravity="center_horizontal"/>
+	<Button
+		android:id="@+id/button1"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="10dp"
+		android:padding="8dp"
+		android:text="Log-in"
+		android:textSize="30sp"
+		android:textColor="#000000"
+		android:layout_gravity="center_horizontal"/>
+	<TextView
+		android:id="@+id/textview2"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="20dp"
+		android:padding="8dp"
+		android:text="not registered yet\?"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		android:layout_gravity="center_horizontal"/>
+	<Button
+		android:id="@+id/button3"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="2dp"
+		android:layout_marginBottom="20dp"
+		android:padding="8dp"
+		android:text="Sign-up"
+		android:textSize="30sp"
+		android:textColor="#000000"
+		android:layout_gravity="center_horizontal"/>
+</LinearLayout>
