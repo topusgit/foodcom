@@ -1,0 +1,28 @@
+Date: 5.05.2019
+Location: CSE Department
+Present: Tushar Sarker(42), Ezaz Nahid Tapu(26), Sukanto Saha(49), Tariqur
+Rahman(35)
+Chairperson: Ezaz Nahid Tapu
+Time-Recorder: Tushar Sarker
+Meeting Duration : 1 hour 33 minute (10:49 PM - 12:22AM)
+Information Updates
+1. Toggl is used to track the time of the meeting.
+2 .Update team member about their action.
+3 . Inform about the problem they faced.
+Decisions
+1 .Action Name = Suggestion
+Team Member = Tushar Sarker
+Status= Trying to connect with database
+2. Action Name= Offers and Discount
+Team Member = Sukanto Saha
+Status= almost done
+3. Action Name = Recipies
+Team Member = Ezaz Nahid Tapu
+Status= Trying to connect with database
+4. Action Name = Social Community 
+Team Member = Md Tariqur Rahman
+Status= trying to connect with database
+Team Role:
+Project Owner –Sukanto Saha
+Scrum Master – Ezaz Nahid Tapu
+Team Member – Tushar Sarker, Tariqur Rahman
